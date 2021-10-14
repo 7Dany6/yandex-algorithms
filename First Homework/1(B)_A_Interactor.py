@@ -1,7 +1,6 @@
 r = int(input())
 i = int(input())
 c = int(input())
-
 if i == 0:
     if r != 0:
         print(3)
