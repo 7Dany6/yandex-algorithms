@@ -14,3 +14,5 @@ def count(length, number_of_legs, array_legs):
 L, K = map(int, input().split())
 legs = list(map(int, input().split()))
 print(count(L, K, legs))
+
+
