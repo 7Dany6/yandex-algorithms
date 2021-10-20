@@ -6,4 +6,3 @@ a, b, c, d, e = int(input()), int(input()), int(input()), int(input()), int(inpu
 shortest, longest = sorted([d, e])
 short_brick, long_brick, *other = sorted([a, b, c])
 print(compare(shortest, longest, short_brick, long_brick))
-
